@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    font-family: monospace;
+}
+
+header {
+    color: greenyellow;
+}
+
+p {
+    color: greenyellow;
+    font-size: larger;
+}
+
+a {
+    color: green;
+    font-size: larger;
+}

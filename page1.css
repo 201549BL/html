@@ -1,0 +1,15 @@
+body {
+    background-color: greenyellow;
+}
+header {
+    border: forestgreen;
+    background-color: forestgreen;
+    padding: 20px 20px 20px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+p {
+    color: brown;
+    font-size: larger;
+}
